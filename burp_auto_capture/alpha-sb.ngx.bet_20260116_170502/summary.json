@@ -1,0 +1,71 @@
+{
+  "capture_timestamp": "20260116_170502", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/request_001.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/company/info", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/response_001.txt", 
+      "timestamp": 1768593900239
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/request_002.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/affiliation/click", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/response_002.txt", 
+      "timestamp": 1768593900734
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/request_003.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/promotion/available-registration?affiliate=693983763db2ce000b209bca", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/response_003.txt", 
+      "timestamp": 1768593901049
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/request_004.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/count", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/response_004.txt", 
+      "timestamp": 1768593901635
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/request_005.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/casino/games/public?widget_ids=MaisJogados", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/response_005.txt", 
+      "timestamp": 1768593901659
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/request_006.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/casino/studio/public?company=68783a6d49550000282c102d&enable=true", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/response_006.txt", 
+      "timestamp": 1768593901981
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/request_007.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/casino/games/latest-winnings", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/response_007.txt", 
+      "timestamp": 1768593902002
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/request_008.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_170502/response_008.txt", 
+      "timestamp": 1768593902052
+    }
+  ], 
+  "host": "alpha-sb.ngx.bet", 
+  "total_requests": 8
+}
